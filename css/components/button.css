@@ -1,0 +1,16 @@
+.button-blue {
+	background-color: black;
+	color : #FFFFFF;
+	border-radius: 5px;
+	padding: 10px 20px;
+}
+
+.button-blue:hover{
+	background-color: rgba(47,134,166, 0.8);
+	align-items: center;
+}
+
+
+.container-button{
+	text-align: center;
+}
